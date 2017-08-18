@@ -1,0 +1,4 @@
+Superglobal variables
+
+$_POST
+-returns array
