@@ -1,0 +1,3 @@
+Sending query variables in a URL
+
+http://example.com/?food=tacos
