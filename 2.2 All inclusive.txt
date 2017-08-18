@@ -1,0 +1,5 @@
+All inclusive
+
+What is the expected behavior of a PHP include statement if the included file is not found?
+
+The include will emit a warning and program execution will continue.
