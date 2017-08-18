@@ -1,0 +1,16 @@
+GET vs POST
+
+GET
+-request data from a resource
+-show query strings and values in URL
+-can be bookmarked
+-can be cached
+-will remain in history
+-only for retrieving data
+
+POST
+-send data to a resource
+-show query names and values only in the body of the request
+-never bookmarked
+-never cached
+-will not remain in history
