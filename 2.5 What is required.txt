@@ -1,0 +1,5 @@
+What Is Required?
+
+What is the expected behavior of a require statement if the file required is not found?
+
+The require will emit a fatal error and halt program execution.
