@@ -1,0 +1,5 @@
+Trust No One
+
+Which of the following statements is a best practice for form and data security?
+
+We must always filter out input and sanitize our output.
