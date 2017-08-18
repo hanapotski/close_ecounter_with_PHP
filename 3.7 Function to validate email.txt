@@ -1,0 +1,5 @@
+Which Function?
+
+Which built-in PHP function would we use to validate an email that matches a format standard?
+
+filter_var
