@@ -1,0 +1,5 @@
+Assert or Validate
+
+When we want to have the Validator class throw a custom exception when the validation fails, would we use the assert method or the validate method?
+
+assert
