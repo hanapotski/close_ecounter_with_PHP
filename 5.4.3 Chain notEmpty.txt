@@ -1,0 +1,18 @@
+<?php
+require __DIR__ . '/vendor/autoload.php';
+
+use Respect\Validation\Validator;
+
+
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+  $name = trim($_POST['name']);
+  $date = trim($_POST['date']);
+  $reason = trim($_POST['reason']);
+
+  echo $name;
+  $dateValidator = Validator::notEmpty()->date();
+  echo validate_date($date);
+
+  echo htmlspecialchars($reason);
+}
