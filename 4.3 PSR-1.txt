@@ -1,0 +1,5 @@
+Is This Right?
+
+If a PHP file contains custom functions and code that echoes data, does it meet the standard of PSR-1?
+
+No, a file must create symbols or cause side effects, but not both.
