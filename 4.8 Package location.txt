@@ -1,0 +1,5 @@
+Where Are They?
+
+Where are the packages that composer installs located in our filesystem?
+
+In the vendor folder at the root of our project.
