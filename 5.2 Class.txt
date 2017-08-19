@@ -1,0 +1,5 @@
+ What It Is in a Class
+
+ Which of the following best describes a class in PHP?
+
+Classes are a way to group code together for a single purpose.
