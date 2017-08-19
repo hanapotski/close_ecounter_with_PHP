@@ -1,0 +1,5 @@
+Exception Class
+
+When an exception is thrown in PHP, is it an array or an object?
+
+Object
